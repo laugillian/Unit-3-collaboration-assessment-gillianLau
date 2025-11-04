@@ -27,7 +27,7 @@ Our mission is to:
 
 Known for its strength and longevity, the oak is a symbol of endurance.
  
- ![bonsai tree](https://unsplash.com/s/photos/bonsai-tree)
+ ![tree from a game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYv9onR7lUafTh3klTrBr-vKd3-QKktu4zaA&s)
 
 ---
 
@@ -37,7 +37,7 @@ Known for its strength and longevity, the oak is a symbol of endurance.
 
 Evergreen and aromatic, pine trees thrive in colder regions.
 
-![tree](https://www.nationalgeographic.com/photography)
+![bonsai tree](https://media.istockphoto.com/id/155908124/photo/small-green-bonsai-tree-in-a-brown-plant-pot.jpg?s=612x612&w=0&k=20&c=GSbcXz_yoIFSwk5QF0vOUCk-hq0ULkhFTRBTfpQ25Yk=)
 
 ---
 
