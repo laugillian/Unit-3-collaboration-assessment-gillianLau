@@ -32,9 +32,11 @@ Known for its strength and longevity, the oak is a symbol of endurance.
 ---
 
 **Pine Tree**
+
 **Scientific Name: *Pinus*
 
 Evergreen and aromatic, pine trees thrive in colder regions.
+
 ![tree](https://www.nationalgeographic.com/photography)
 
 ---
@@ -43,6 +45,7 @@ Evergreen and aromatic, pine trees thrive in colder regions.
 
 You can use this simple **Javascript** function to identify a tree by its characteristics:
 
+```
 function identify_tree(leaf_shape, region){
     
     if(leaf_shape == "needle" && region == "cold"){
@@ -62,6 +65,9 @@ function identify_tree(leaf_shape, region){
 }
 
 console.log(identify_tree("needle", "cold")}
+
+```
+
 
 
 

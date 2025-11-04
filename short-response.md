@@ -15,7 +15,7 @@ Git hub is a cloud based service that allows developers to store, track, manage,
 
 Git hub and git work together by making it easier to help us organize our codebase and make coding easier.
 
-4. **What is wrong with the following command sequence? What should be the correct command sequence?
+4. **What is wrong with the following command sequence? What should be the correct command sequence?**
 
 The command sequence is out of order, the first two steps should be flipped with git add . being first and git commit -m " " being 2nd and it should look like this: 
 `git add .`
